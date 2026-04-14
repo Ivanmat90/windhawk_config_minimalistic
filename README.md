@@ -1,0 +1,2 @@
+# windhawk_config_minimalistic
+Minimalistic Windhawk Config
