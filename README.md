@@ -5,7 +5,7 @@
 ***Author of all mods in this configuration:*** [m417z](https://m417z.com/)
 ***Works on: Windhawk 1.7, Windows 11 24H2***
 
-> [!warning] This configuration will not work or will work partially on Windows 10
+> ***WARNING!: This configuration will not work or will work partially on Windows 10***
 
 ---
 ### 🚀 How to apply?
@@ -20,7 +20,7 @@
 
 *Shows real folder and file sizes via Everything.*
 
-> [!tip] [Everything](https://voidtools.com/) must be installed with indexing enabled: Tools — Options — Indexes — Enable "Folder sizes".
+> **Tip: [Everything](https://voidtools.com/) must be installed with indexing enabled: Tools — Options — Indexes — Enable "Folder sizes".**
 
 ```json
 {
@@ -121,7 +121,7 @@
 ***Автор всех модов в этой конфигурации:*** [m417z](https://m417z.com/)
 ***Работает на: Windhawk 1.7, Windows 11 24H2***
 
-> [!warning] Данная конфигурация на Windows 10 не будет работать или работать частично
+> ***ВНИМАНИЕ!: Данная конфигурация на Windows 10 не будет работать или работать частично***
 
 ---
 ### 🚀 Как применить?
@@ -136,7 +136,7 @@
 
 *Показывает реальные размеры папок и файлов через Everything.*
 
-> [!tip] Должен быть установлен [Everything](https://voidtools.com/) с включённым индексированием: Сервис — Настройки — Индексирование — Поставить галочку "Размеры папок".
+> **Подсказка: Должен быть установлен [Everything](https://voidtools.com/) с включённым индексированием: Сервис — Настройки — Индексирование — Поставить галочку "Размеры папок".**
 
 ```json
 {
